@@ -4,7 +4,6 @@ I'm Adrian, and there are days when I love to write some code. Am I a *Code Junk
 I would like to think of 1st December 2023 as a new start, because I have deleted my old repositories (and oooooh boy, I should've done it way way earlier).
 
 ## What do I do?
-* I work daily at SmartBear.
 * I used to blog a little bit, maybe someday I'll get back to it.
 * I am an owner of dozens of non-finished projects.
 * I currently work on this [Discord Bot](https://github.com/mrowkaadrian/homemade-discord-bot).
